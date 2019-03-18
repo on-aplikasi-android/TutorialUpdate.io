@@ -12,10 +12,21 @@ Tutorial aplikasi instan untuk android
 ---
 
 
-#Update Aplikasi
+**Update Aplikasi**
 
 - Update Apps
 
 'update apps atau Upload file anda'
 
 [Klik -->]() [![Aplikasi](https://api.codacy.com/project/badge/Grade/e03c67b3b4414d2aac614a3d31f91b74)](https://github.com/on-aplikasi-android/TutorialUpdate.io.git)
+
+
+---
+
+**Download Aplikasi**
+
+- Download Dan Upload aplikasi
+
+' anda bingung cara mendownload aplikasi ini coba sekarang'
+
+[Klik -->]() .[![Aplikasi](https://api.codacy.com/project/badge/Grade/e03c67b3b4414d2aac614a3d31f91b74)](https://github.com/on-aplikasi-android/TutorialUpdate.io/archive/master.zip)
