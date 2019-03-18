@@ -2,7 +2,7 @@
 -$ add username.index.io
 -$ echo"Hello word">index.io
 -$ add api.codacy.com
--$ [![Codacy Badge](https://api.codacy.com/project/badge/Grade/d5154652a47442ceb3ae1f4a6ec8f843)](https://www.codacy.com/app/bbusines77/Apk.olshop?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=blibliOlshop/Apk.olshop&amp;utm_campaign=Badge_Grade)
+-$ [![Codacy Badge](https://api.codacy.com/project/badge/Grade/d5154652a47442ceb3ae1f4a6ec8f843)
 -$ git add --all
 -$ git commit -m "Initial commit"
 -$ git push -u origin master
